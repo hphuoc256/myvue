@@ -6,9 +6,7 @@
     </div>
 </template>
 
-<script lang="ts" setup name="TheDashboard">
-import Form from './components/form.vue'
-import FormJsx from './form'
+<script lang="ts" setup name="Dashboard">
 import type { AppStore } from '@/stores/appStore'
 import { useAppStore } from '@/stores/appStore'
 import type { AuthStore } from '@/stores/authStore'

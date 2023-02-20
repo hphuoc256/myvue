@@ -43,7 +43,7 @@ export default defineConfig(async ({ command, mode, ssrBuild }) => {
             alias: {
                 '@': fileURLToPath(new URL('./src', import.meta.url)),
                 '~node_modules': path.resolve(__dirname, 'node_modules'),
-                "~/": `${path.resolve(__dirname, "src")}/`,
+                '~/': `${path.resolve(__dirname, 'src')}/`,
             },
         },
         define: {

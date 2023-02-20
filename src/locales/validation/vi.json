@@ -89,6 +89,7 @@
     "required_without": "{attribute} không được bỏ trống khi một trong {values} không có giá trị.",
     "required_without_all": "{attribute} không được bỏ trống khi tất cả {values} không có giá trị.",
     "same": "{attribute} và {other} phải giống nhau.",
+    "sameAs": "{attribute} và {other} phải giống nhau.",
     "size": {
         "array": "{attribute} phải chứa {size} phần tử.",
         "file": "Dung lượng tập tin trong trường {attribute} phải bằng {size} kB.",

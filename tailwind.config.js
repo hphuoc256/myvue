@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
   content: [
     './index.html',
@@ -8,7 +9,11 @@ module.exports = {
   ],
   media: false,
   theme: {
-    extend: {},
+    extend: {
+      animation: {
+        'spin-slow': 'spin 3s linear infinite',
+      },
+    }
   },
   variants: {
     extend: {},

@@ -1,12 +1,12 @@
 <template>
-    <div id="sign-in">
+    <div id="sign-up">
         <div class="max-w-2xl mx-auto justify-center">
             <div class="mx-auto flex max-w-7xl flex-col gap-y-4 text-center">
-                <dt class="text-base leading-7 text-alo">
-                    {{ $t('auth.signin-please') }}
+                <dt class="text-base leading-7 text-gray-600">
+                    {{ $t('auth.register-account') }}
                 </dt>
                 <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
-                    {{ $t('auth.signin') }}
+                    {{ $t('auth.signup') }}
                 </dd>
             </div>
             <div class="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8 shadow sm:overflow-hidden sm:rounded-md mt-5">
@@ -18,9 +18,9 @@
     </div>
 </template>
 
-<script lang="ts" setup name="SignIn">
-
+<script lang="ts" setup name="SignUp">
 import Form from './components/form.vue'
+
 
 </script>
 

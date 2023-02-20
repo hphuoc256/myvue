@@ -1,5 +1,14 @@
 {
     "login": "Login",
+    "signin": "Sign in",
+    "signup": "Sign up",
     "email": "Email",
-    "password": "Password"
+    "password": "Password",
+    "password_conform": "Confirm Password",
+    "username": "Username",
+    "signin-please": "Please sign in to continue",
+    "forgot-password": "Forgot password",
+    "signin-sms": "Sign in with SMS",
+    "register-account": "Register new account",
+    "agree": "Agree"
 }

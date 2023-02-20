@@ -1,5 +1,15 @@
 {
     "login": "Đăng nhập",
+    "signin": "Đăng nhập",
+    "signup": "Đăng ký",
     "email": "Email",
-    "password": "Mật khẩu"
+    "password": "Mật khẩu",
+    "password_conform": "Xác nhận mật khẩu",
+    "username": "Tên tài khoản",
+    "signin-please": "Vui lòng đăng nhập để tiếp tục",
+    "forgot-password": "Quên mật khẩu",
+    "signin-sms": "Đăng nhập với SMS",
+    "register-account": "Đăng ký tài khoản mới",
+    "agree": "Đồng ý"
+
 }

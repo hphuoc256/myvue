@@ -5,4 +5,4 @@
 </template>
 
 
-<script lang="ts" setup name="TheProfile"></script>
+<script lang="ts" setup name="Report"></script>
